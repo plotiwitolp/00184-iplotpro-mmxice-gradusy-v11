@@ -1,0 +1,187 @@
+@media (min-width: 768px) {
+  /* START FONT */
+  .about-page__body_text,
+  .about__body_content_text,
+  .sbu_child_services ul a,
+  .news-item__body_content_text,
+  .advantage__desc,
+  .services-hero__text,
+  .services-sec__text,
+  .services-sec__item_text,
+  .menu__part_submenu_item,
+  .spec-text-wrap,
+  .employee-page,
+  .hero__slider_sl_content_date,
+  .hero__slider_sl_content_text {
+    font-family: "Cera Pro";
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  .about__body_content_head,
+  .news-item__body_content_name,
+  .news-item__body_content_subhead,
+  .advantage__title,
+  .menu__part_item_link,
+  .sbu_title_services a,
+  .problems__title,
+  .services-price__body_item_head .ac-trigger,
+  .serv-page__body_item_spec-name,
+  .employee-page__spec-title,
+  .employee-page__feedback-subtitle,
+  .faq__list-head,
+  .single-page__subtitle,
+  .hero__slider_sl_content_head {
+    font-family: "Cera Pro";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: left;
+  }
+  .about-page__big,
+  .about__head.section__title,
+  .section__title,
+  .price-page__title,
+  .employee-page__spec-name,
+  .employee-page__spec-label,
+  .employee-page__about-label,
+  .employee-page__direct-label,
+  .spec-licenz-title,
+  .faq__list-title,
+  .single-page__title {
+    font-family: "Cera Pro";
+    font-size: 50px;
+    line-height: 61px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: left;
+  }
+  /* END FONT */
+  /* START MARGIN & PADDING */
+  .serv-page,
+  .services-page,
+  .news-item,
+  .client-page,
+  .employee-page,
+  .price-page,
+  .about-page,
+  .contacts-page,
+  .single-page {
+    margin: 60px 0 0;
+  }
+  .about,
+  .serv,
+  .serv2,
+  .online,
+  .promo,
+  .problem-solution,
+  .services-team,
+  .services-serv,
+  .services-sec,
+  .services-pr,
+  .services-qt,
+  .fill,
+  .serives-price,
+  .spec-licenz,
+  .price-page .services-price__action,
+  .about-page__body_list,
+  .about-page__team,
+  .about-page__atm,
+  .contacts-page__body_ex,
+  .contacts-page__body_ex__wrap,
+  .client,
+  .price__row,
+  .banner__btns,
+  .faq {
+    margin: 60px 0 0;
+  }
+  .all_services_blocks > ol > li,
+  .services-price__action,
+  .services_banner,
+  .services-sec__list,
+  .news-item__body_content_action,
+  .wrap-block,
+  .price-page__item,
+  .contacts-page__body_ex_action,
+  .faq__list-inner,
+  .faq__list-body {
+    margin: 30px 0 0;
+  }
+  .single-page__body-item,
+  .subcat-body {
+    margin-bottom: 30px;
+  }
+  .single-page__body-item:last-child {
+    margin-bottom: 0;
+  }
+  .about__head,
+  .serv__subhead,
+  .serv2__head,
+  .client__head,
+  .promo__head,
+  .problem-solution__head,
+  .online__head,
+  .services-team__head_title,
+  .serv-page__head,
+  .services-hero__title,
+  .services-serv__head_title,
+  .services-sec__head,
+  .services-pr__head,
+  .services-price__head,
+  .news-item__head,
+  .employee-page__spec-name,
+  .employee-page__spec-label,
+  .employee-page__about-label,
+  .employee-page__direct-label,
+  .spec-licenz-title,
+  .price-page__title,
+  .about-page__big,
+  .about-page__atm_head,
+  .contacts-page__head,
+  .contacts-page__body_ex_head,
+  .single-page__title {
+    margin-bottom: 25px;
+  }
+  .about__body_content_head,
+  .services-price__body_item_head,
+  .employee-page__feedback-subtitle,
+  .news-item__body_content_name,
+  .news-item__body_content_date,
+  .single-page__subtitle {
+    margin-bottom: 20px;
+  }
+  .about__body_content_link,
+  .problem-solution__subhead,
+  .online__subhead,
+  .services-team__head_subhead,
+  .faq__list-item {
+    margin-bottom: 15px;
+  }
+  .advantage__title {
+    margin-bottom: 10px;
+  }
+  /* END MARGIN & PADDING */
+  .services-price__body_item_panel_content .table__item.table__head {
+    padding: 0 0 15px;
+  }
+  .services-price__body_item_panel_content .table__item {
+    padding: 15px 0;
+  }
+  .services-pr__body,
+  .about-page__body_list,
+  .promo__body {
+    gap: 30px 10px;
+  }
+  .hero__slider_sl_content_body {
+    margin-top: 0;
+    margin-left: auto;
+    position: absolute;
+    height: auto;
+    bottom: -500px;
+    right: -120px;
+  }
+}

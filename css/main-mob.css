@@ -1,0 +1,233 @@
+@media (max-width: 768px) {
+  /* START FONT */
+  .hero__slider_sl_content_date,
+  .hero__slider_sl_content_text,
+  .hero__slider_sl_content_link,
+  .about__body_content_text,
+  .about__body_content_link_text,
+  .sbu_child_services ul a,
+  .arrow-link__text,
+  .client__body_slider_slide_descr_date,
+  .client__body_slider_slide_descr_text,
+  .promo__body_item_descr_data,
+  .promo__body_item_descr_text,
+  .footer__top_link_name,
+  .footer,
+  .footer__mid_main_soc_item,
+  .footer__bottom,
+  .services-hero__text,
+  .services-serv__head_text,
+  .services-serv__body_item_text,
+  .services-wr__body_content_descr_text,
+  .services-sec__text,
+  .services-sec__item_text,
+  .services-qt__body,
+  .services-team__body_slider_sl_body_pr,
+  .news-item__mob_date,
+  .news-item__body_content_text,
+  .about-page__body_text,
+  .about-page__team_slider_sl_descr_pos,
+  .contacts-page__body_main_item,
+  .contacts-page__body_ex_text,
+  .advantage__text,
+  .advantage__desc,
+  .spec-text-wrap,
+  .employee-page,
+  .faq__list-head,
+  .hero__slider_sl_content_date,
+  .hero__slider_sl_content_text {
+    font-family: "Cera Pro";
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  .hero__slider_sl_content_head,
+  .about__body_content_head,
+  .sbu_title_services a,
+  .client__body_slider_slide_descr_name,
+  .promo__body_item_descr_head,
+  .serv-page__body_item_name,
+  .services-hero__list_item_name,
+  .fill__btn_text,
+  .services-price__body_item_head .ac-trigger,
+  .services-price__body_item_panel_content .table__item.table__head,
+  .services-price__action_btn_text,
+  .services-team__body_slider_sl_body_name,
+  .news-item__body_content_subhead,
+  .news-item__body_content_action_btn,
+  .about-page__body_item_name,
+  .about-page__team_slider_sl_descr_name,
+  .contacts-page__body_item_text,
+  .contacts-page__body_ex_action_btn,
+  .advantage__title,
+  .serv-page__body_item_spec-name,
+  .employee-page__spec-title,
+  .employee-page__feedback-subtitle,
+  .employee-page__spec-title-mob,
+  .single-page__subtitle,
+  .hero__slider_sl_content_head {
+    font-family: "Cera Pro";
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+  .section__title,
+  .problems__title,
+  .problems__text,
+  .footer__top_title,
+  .services_block_image::after,
+  .services-hero__subtitle,
+  .services-wr__head,
+  .services-wr__body_content_descr_head,
+  .news-item__mob_name,
+  .about-page__big,
+  .price-page__title,
+  .employee-page__spec-name,
+  .employee-page__spec-label,
+  .employee-page__about-label,
+  .employee-page__direct-label,
+  .spec-licenz-title,
+  .employee-page__spec-name-mob,
+  .faq__list-title,
+  .single-page__title {
+    font-family: "Cera Pro";
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: uppercase;
+    text-align: left;
+  }
+  /* END FONT */
+  /* START MARGIN & PADDING */
+  .serv-page,
+  .services-page,
+  .news-item,
+  .client-page,
+  .employee-page,
+  .price-page,
+  .about-page,
+  .contacts-page,
+  .single-page {
+    margin: 25px 0 0;
+  }
+  .about,
+  .serv,
+  .serv2,
+  .online,
+  .promo,
+  .problem-solution,
+  .services-team,
+  .services-serv,
+  .services-sec,
+  .services-pr,
+  .services-qt,
+  .fill,
+  .serives-price,
+  .spec-licenz,
+  .price-page .services-price__action,
+  .about-page__body_list,
+  .about-page__team,
+  .about-page__atm,
+  .contacts-page__body_ex,
+  .contacts-page__body_ex__wrap,
+  .client,
+  .price__row,
+  .banner__btns,
+  .faq {
+    margin: 30px 0 0;
+  }
+  .contacts-page__body-mob__item {
+    margin-bottom: 30px;
+  }
+  .all_services_blocks > ol > li,
+  .services-price__action,
+  .services_banner,
+  .services-sec__list,
+  .news-item__body_content_action,
+  .wrap-block,
+  .price-page__item,
+  .contacts-page__body_ex_action,
+  .news-item__body_content_subhead,
+  .contacts-page__body_list,
+  .faq__list-inner,
+  .faq__list-body {
+    margin: 20px 0 0;
+  }
+  .single-page__body-item,
+  .subcat-body {
+    margin-bottom: 20px;
+  }
+  .single-page__body-item:last-child {
+    margin-bottom: 0;
+  }
+  .about__head,
+  .serv__subhead,
+  .serv2__head,
+  .client__head,
+  .promo__head,
+  .news-page .promo__head,
+  .problem-solution__head,
+  .online__head,
+  .services-team__head_title,
+  .serv-page__head,
+  .services-hero__title,
+  .services-serv__head_title,
+  .services-sec__head,
+  .services-pr__head,
+  .services-price__head,
+  .news-item__head,
+  .employee-page__spec-name,
+  .employee-page__spec-label,
+  .employee-page__about-label,
+  .employee-page__direct-label,
+  .spec-licenz-title,
+  .price-page__title,
+  .about-page__big,
+  .about-page__atm_head,
+  .contacts-page__head,
+  .contacts-page__body_ex_head,
+  .news-item__mob_name,
+  .news-item__body_img,
+  .single-page__title {
+    margin-bottom: 13px;
+  }
+  .about__body_content_head,
+  .services-price__body_item_head,
+  .employee-page__feedback-subtitle,
+  .news-item__body_content_name,
+  .news-item__body_content_date,
+  .news-item__mob_date,
+  .contacts-page__body_main_item,
+  .single-page__subtitle {
+    margin-bottom: 10px;
+  }
+  .about__body_content_link,
+  .problem-solution__subhead,
+  .online__subhead,
+  .services-team__head_subhead,
+  .faq__list-item {
+    margin-bottom: 10px;
+  }
+  .advantage__title {
+    margin-bottom: 5px;
+  }
+  /* END MARGIN & PADDING */
+  .services-price__body_item_panel_content .table__item.table__head {
+    padding: 0 0 10px;
+  }
+  .services-price__body_item_panel_content .table__item {
+    padding: 10px 0;
+  }
+  .services-pr__body,
+  .promo__body,
+  .about-page__body_list,
+  .contacts-page__body_list,
+  .promo__body,
+  .contacts-page__body-mob__item-btns {
+    gap: 15px 10px;
+  }
+}
